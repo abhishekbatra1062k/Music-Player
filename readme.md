@@ -9,6 +9,6 @@ Created a beautiful UI to play music stored in the "music folder" using the HTML
 - Switch songs
 - Progress bar
 
-### ![screenshot](./images/screenshot.JPG)
+### ![Screenshot](./images/Screenshot.JPG)
 
 ### [DEMO](https://abhishekbatra1062k.github.io/Music-Player/)
